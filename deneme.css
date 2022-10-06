@@ -1,0 +1,21 @@
+.text-blue {
+color:blue;
+}
+.font-size{
+    font-family: 'Times New Roman', Times, serif;
+}
+.text-green {
+    color:green;
+}
+a{
+    color: darkred;
+}
+body{
+    list-style-position: inside;
+}
+body{
+    text-align:center
+}
+img{
+    width: 250px;
+}
